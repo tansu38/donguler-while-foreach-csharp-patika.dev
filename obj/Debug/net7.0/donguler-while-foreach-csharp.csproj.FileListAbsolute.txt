@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\yazılım\donguler-while-foreach-csharp\bin\Debug\net7.0\donguler-while-foreach-csharp.exe
+C:\Users\user\Desktop\yazılım\donguler-while-foreach-csharp\bin\Debug\net7.0\donguler-while-foreach-csharp.deps.json
+C:\Users\user\Desktop\yazılım\donguler-while-foreach-csharp\bin\Debug\net7.0\donguler-while-foreach-csharp.runtimeconfig.json
+C:\Users\user\Desktop\yazılım\donguler-while-foreach-csharp\bin\Debug\net7.0\donguler-while-foreach-csharp.dll
+C:\Users\user\Desktop\yazılım\donguler-while-foreach-csharp\bin\Debug\net7.0\donguler-while-foreach-csharp.pdb
+C:\Users\user\Desktop\yazılım\donguler-while-foreach-csharp\obj\Debug\net7.0\donguler-while-foreach-csharp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\yazılım\donguler-while-foreach-csharp\obj\Debug\net7.0\donguler-while-foreach-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\yazılım\donguler-while-foreach-csharp\obj\Debug\net7.0\donguler-while-foreach-csharp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\yazılım\donguler-while-foreach-csharp\obj\Debug\net7.0\donguler-while-foreach-csharp.AssemblyInfo.cs
+C:\Users\user\Desktop\yazılım\donguler-while-foreach-csharp\obj\Debug\net7.0\donguler-while-foreach-csharp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\yazılım\donguler-while-foreach-csharp\obj\Debug\net7.0\donguler-while-foreach-csharp.dll
+C:\Users\user\Desktop\yazılım\donguler-while-foreach-csharp\obj\Debug\net7.0\refint\donguler-while-foreach-csharp.dll
+C:\Users\user\Desktop\yazılım\donguler-while-foreach-csharp\obj\Debug\net7.0\donguler-while-foreach-csharp.pdb
+C:\Users\user\Desktop\yazılım\donguler-while-foreach-csharp\obj\Debug\net7.0\donguler-while-foreach-csharp.genruntimeconfig.cache
+C:\Users\user\Desktop\yazılım\donguler-while-foreach-csharp\obj\Debug\net7.0\ref\donguler-while-foreach-csharp.dll
